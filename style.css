@@ -1,0 +1,21 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 200px;
+}   
+
+#container{   
+    width: 300px;
+}
+
+.content{
+    padding-top: 15px;
+    justify-content: center;
+}
+.PlayerDisplay,
+.result,
+.ComputerDisplay{
+    padding-top: 5px;
+    justify-content: center;
+}
